@@ -122,7 +122,7 @@ Next.js
    ↓
 Full-Stack Development
    ↓
-Cloud Computing/Ebgineering
+Cloud Computing/Engineering
 ```
 
 I'm currently strengthening my understanding of:
@@ -136,7 +136,7 @@ I'm currently strengthening my understanding of:
 * Responsive web design
 * UI/UX implementation
 * Backend fundamentals
-* Blockchain development
+* 
 
 ---
 
