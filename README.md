@@ -122,7 +122,7 @@ Next.js
    ↓
 Full-Stack Development
    ↓
-Blockchain / Web3
+Cloud Computing/Ebgineering
 ```
 
 I'm currently strengthening my understanding of:
