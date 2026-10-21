@@ -1,277 +1,87 @@
+ <!-- Profile README for github.com/devbysavage/devbysavage -->
+
 <div align="center">
 
-<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:064E3B,100:10B981&text=JOBI%20F.%20AYOMIDE&fontColor=FFFFFF&fontSize=43&fontAlignY=38&desc=CREATIVITY%20%2B%20CODE%20%2B%20IMPACT&descAlignY=59&descSize=16&animation=twinkling" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:111111,100:047857&height=220&section=header&text=AYOMIDE%20JOBI&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Creative%20Developer%20%7C%20Content%20Creator%20%7C%20Strategist&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-# Hey, I'm Ayomide 👋
-
-### Creative Developer • Content Creator • Content Strategist
-
-<p>
-I build digital experiences and visual content that help brands
-<br/>
-communicate their ideas, identity, and value.
-</p>
-
-<p>
-  <a href="https://github.com/devbysavage">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="www.linkedin.com/in/funsho-jobi-69a5a3302">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="www.instagram.com/savageshott_">
-    <img src="https://img.shields.io/badge/Instagram-0A0A0A?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-  <a href="mailto:jobiayomide8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-</p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2200&pause=700&color=10B981&center=true&vCenter=true&width=850&height=65&lines=Full-Stack+Developer+%E2%9C%A6;Creative+Developer+%E2%9C%A6;Visual+Storyteller+%E2%9C%A6;Building+Ideas+Into+Digital+Experiences" alt="Savage — animated developer headline" />
 </div>
 
----
-
-## 🧭 My Developer Journey
-
-I didn't start my journey in tech.
-
-My background began around **content, visual storytelling, and digital communication**. Over time, I became increasingly interested in understanding what happens behind the interfaces and experiences I was creating.
-
-That curiosity led me into **web development**.
-
-Now I'm building my technical foundation while combining it with the skills I've already developed in content creation and strategy.
-
-I'm particularly interested in the intersection between:
-
-**Technology × Creativity × Communication**
-
-I'm currently focused on becoming a stronger developer by learning, building, breaking things, fixing them, and documenting the process.
-
-> **Learn → Build → Break → Debug → Improve → Repeat.**
-
----
-
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 💻 Web Development
-
-* Frontend development
-* Responsive interfaces
-* JavaScript
-* React
-* Next.js
-* Modern UI development
-* Git & GitHub
-
-</td>
-
-<td width="50%">
-
-### 🎥 Creative & Strategy
-
-* Content creation
-* Visual storytelling
-* Content strategy
-* Brand communication
-* Script development
-* Video production
-* Audience-focused storytelling
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-### Currently Working With
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
+  <b>Full-Stack Developer</b> &nbsp; • &nbsp; <b>Creative Thinker</b> &nbsp; • &nbsp; <b>Content Creator</b>
 </p>
 
-### Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,sql" />
-</p>
-
-### Also Interested In
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-
----
-
-## 🚀 What I'm Currently Learning
-
-```text
-JavaScript
-   ↓
-React
-   ↓
-Next.js
-   ↓
-Full-Stack Development
-   ↓
-Cloud Computing/Engineering
-```
-
-I'm currently strengthening my understanding of:
-
-* JavaScript fundamentals
-* React
-* Next.js
-* Component-based development
-* APIs
-* Git & GitHub workflows
-* Responsive web design
-* UI/UX implementation
-* Backend fundamentals
-* 
-
----
-
-## 🧩 Featured Projects
-
-### 💎 House Of Savage
-
-A digital ecosystem bringing together fashion, jewelry, and content creation under one brand.
-
-**Built with:** `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/devbysavage/houseofsavage">
-<img src="https://img.shields.io/badge/View%20Project-047857?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://savage-portfolio.onrender.com/">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-
----
-
-### 🏨 Luxury Spa Website
-
-A modern frontend experience designed around a luxury spa brand, with responsive layouts, smooth interactions, and a premium black-and-white visual direction.
-
-**Built with:** `HTML` `CSS` `JavaScript`
-
-<a href="https://github.com/devbysavage/spa-frontend-stack">
-<img src="https://img.shields.io/badge/View%20Project-047857?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 👔 Executive Profile Card
-
-A premium **Expert-to-Expert (E2E)** executive profile component designed for a professional networking platform.
-
-**Built with:** `Next.js` `Tailwind CSS` `JavaScript`
-
-<a href="https://github.com/devbysavage/exprocard">
-<img src="https://img.shields.io/badge/View%20Project-047857?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devbysavage&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=D1D5DB&icon_color=047857&ring_color=047857" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbysavage&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFFFFF&text_color=D1D5DB" height="180"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=devbysavage&theme=dark&hide_border=true&background=0A0A0A&ring=047857&fire=D4AF37&currStreakLabel=FFFFFF" width="70%"/>
-
-</div>
-
----
-
-## 📈 My Current Focus
-
-<table>
-<tr>
-<td>🌐 Web Development</td>
-<td>⚡ JavaScript</td>
-</tr>
-<tr>
-<td>▲ Next.js</td>
-<td>⚛️ React</td>
-</tr>
-<tr>
-<td>🎨 UI Development</td>
-<td>⛓️ Blockchain</td>
-</tr>
-<tr>
-<td>🧠 Problem Solving</td>
-<td>🚀 Building Projects</td>
-</tr>
-</table>
-
----
-
-## 🎯 My Philosophy
-
-<div align="center">
-
-### "Don't just learn the technology. Build with it."
-
-I believe the fastest way to grow is to turn knowledge into something real.
-
-**Less tutorial hell.
-More building.**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to connecting with:
-
-**Developers • Creatives • Founders • Designers • Brands • Builders**
-
-If you're building something interesting, let's talk.
-
-<div align="center">
-
-<a href="www.linkedin.com/in/funsho-jobi-69a5a3302">
-<img src="https://img.shields.io/badge/LinkedIn-047857?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="www.instagram.com/savageshott_">
-<img src="https://img.shields.io/badge/Instagram-047857?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
 <a href="mailto:jobiayomide8@gmail.com">
-<img src="https://img.shields.io/badge/Email-047857?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LET'S%20CONNECT-111111?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Contact me" />
 </a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=devbysavage&style=flat-square&color=10B981&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
 ---
 
-<div align="center">
+## `01` — About Me
 
-### 👀 Profile Visitors
+I'm Jobi F. Ayomide, also known as **Savage**.
 
-<img src="https://komarev.com/ghpvc/?username=devbysavage&label=PROFILE%20VIEWS&color=047857&style=for-the-badge"/>
+My journey into technology didn't begin with code. It began with creativity, visual storytelling, content creation, and finding ways to help ideas connect with people.
 
-<br/><br/>
+That creative foundation eventually led me to web development. Now, I'm building my technical skills and turning ideas into responsive interfaces, useful applications, and backend systems.
 
-**Building in public. One project at a time. 🚀**
+I enjoy the intersection of **technology, creativity, and communication** — where good engineering meets thoughtful design.
 
-</div>
+- Building with JavaScript across frontend and backend.
+- Creating responsive web experiences and REST APIs.
+- Learning by building, testing, debugging, and improving.
+- Exploring blockchain as a longer-term area of interest.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:047857,50:111111,100:0A0A0A&height=120&section=footer" width="100%"/>
+> My philosophy: Learn → Build → Break → Debug → Improve → Repeat.
+
+## `02` — What I Bring
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/01-10B981?style=flat-square" /> Development
+
+Building practical digital products with a focus on usability, clean structure, and maintainability.
+
+- Frontend development
+- REST API development
+- Database integration
+- Responsive UI implementation
+- Testing and debugging
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://img.shields.io/badge/02-10B981?style=flat-square" /> Creative Work
+
+Bringing a visual and strategic perspective to the products and brands I work on.
+
+- Content creation
+- Visual storytelling
+- Content strategy
+- Brand communication
+- Creative direction
+
+</td>
+</tr>
+</table>
+
+## `03` — My Tech Stack
+
+**Frontend**
+
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=
